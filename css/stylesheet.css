@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'EnglishTowne-Normal';
+    src: url('EnglishTowne-Normal.woff2') format('woff2'),
+        url('EnglishTowne-Normal.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
