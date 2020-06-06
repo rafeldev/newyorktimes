@@ -1,5 +1,13 @@
 @import url(//db.onlinewebfonts.com/c/7e56a425365cc89386bb95855f14d795?family=EnglishTowne-Normal);
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
+@font-face {
+    font-family: 'EnglishTowne-Normal Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('EnglishTowne-Normal Regular'), url('ENGLISHT.woff') format('woff');
+    }
+
+
 :root{
     --typo-family: 'Times New Roman';
     --border-botom: 2px solid black;
