@@ -140,6 +140,7 @@ span{
 }
 
 .hero--paragraphe--img--title h2{
+    padding-left: 5px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-top: var(--border-botom);
