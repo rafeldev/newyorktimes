@@ -1,11 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab&display=swap');
-@font-face {
+ @font-face {
     font-family: 'EnglishTowne-Normal';
     font-style: normal;
     font-weight: normal;
     src: local('../font/ENGLISHT.TTF')
-    }
-
+} 
 
 :root{
     --typo-family: 'Times New Roman';
